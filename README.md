@@ -44,7 +44,6 @@ Throughout these exercises, the following skills and technologies were utilized 
 
 - **Programming Languages**: Go, C, Assembly
 - **Concepts**: Computer architecture, networking protocols, systems programming, database management, distributed computing
-- **Tools**: Makefile, Shell scripting
 
 ## Acknowledgements
 
